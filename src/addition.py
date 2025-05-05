@@ -1,6 +1,5 @@
 # app.py
 # This is a test commit
-#remove one new commit
 def add(a, b):
     return a + b
 
